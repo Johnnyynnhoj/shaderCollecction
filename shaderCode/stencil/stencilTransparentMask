@@ -20,7 +20,7 @@ Shader "Custom/stencil1"
 		  Fail replace
 		  //ZFail replace
 
-		}
+		}//加這一條
 
         CGPROGRAM
         // Physically based Standard lighting model, and enable shadows on all light types
